@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProyectoComposeMoviles</string>
+    <string name="title_activity_inicio_sesion">InicioSesion</string>
+    <string name="title_activity_crear_cuenta">CrearCuenta</string>
+    <string name="title_activity_catalogo">Catalogo</string>
+    <string name="title_activity_menu_lateral">MenuLateral</string>
+    <string name="title_activity_bottom_nav">BottomNav</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_catalogo_ea">CatalogoEA</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_pago">Pago</string>
+    <string name="title_activity_pago_realizado">PagoRealizado</string>
+    <string name="title_activity_pedidos_admin">PedidosAdmin</string>
+    <string name="title_activity_home_screen_admin">HomeScreenAdmin</string>
+</resources>
